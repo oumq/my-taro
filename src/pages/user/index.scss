@@ -1,0 +1,11 @@
+.top {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding-top: 10px;
+  padding-left: 30px;
+  .label {
+    margin-left: 20px;
+    font-weight: bold;
+  }
+}
